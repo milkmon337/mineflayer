@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^12.5.1",
+    "mineflayer": "^3.2.0"
+  }
+}
